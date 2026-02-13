@@ -37,3 +37,9 @@ requirements.txt → Required Python libraries
 
 Project Demonstration Video
 (Video link will be posted soon)
+
+### Kaggle Notebook
+
+View the complete project notebook on Kaggle here:  
+[https://www.kaggle.com/code/esograce/iris-classification-codealpha-internship]
+
