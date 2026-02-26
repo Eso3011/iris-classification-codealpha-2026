@@ -36,7 +36,7 @@ iris_classification.ipynb → Main project notebook
 requirements.txt → Required Python libraries
 
 Project Demonstration Video
-(Video link will be posted soon)
+(https://drive.google.com/file/d/1liSo_tk78j3VZr17W0F3iTP57FiOjH2G/view?usp=drivesdk)
 
 ### Kaggle Notebook
 
